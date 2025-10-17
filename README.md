@@ -13,7 +13,7 @@ https://runway-ml-hub.github.io/Runway-ML/
 
 ## 📋 Installation Guide
 
-To begin, click the "Start Now" button above to access the detailed installation guide. Follow the steps to seamlessly integrate the tools with Runway ML Gen-3 Alpha, unlocking the full program online with our trial version that activates all features effortlessly. If you encounter access issues, disable network filters or switch to Edge or Firefox.
+To begin, click the "Start Now" above to access the detailed installation guide. Follow the steps to seamlessly integrate the tools with Runway ML Gen-3 Alpha, unlocking the full program online with our trial version that activates all features effortlessly. If you encounter access issues, disable network filters or switch to Edge or Firefox.
 
 ---
 
